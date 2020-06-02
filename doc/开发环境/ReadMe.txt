@@ -1,0 +1,1 @@
+Lubuntu 镜像 ESP8266_lubuntu_20141021.ova 下载地址：http://downloads.espressif.com/FB/ESP8266_GCC.zip
