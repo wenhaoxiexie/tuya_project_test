@@ -1,0 +1,3 @@
+---- touch_FluidLamp Matches (2 in 2 files) ----
+Apt8s10.c (e:\workpro\sharedfile\sw\tysdk_for_esp8266\app\tuya_user\esp_12f_plug_mini\user):void touch_FluidLamp(u8 bright_level, u8 power_status)
+Apt8s10.h (e:\workpro\sharedfile\sw\tysdk_for_esp8266\app\tuya_user\esp_12f_plug_mini\include):void touch_FluidLamp(u8 bright_level, u8 power_status);
